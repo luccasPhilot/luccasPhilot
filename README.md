@@ -13,6 +13,7 @@
   <img align="center" alt="Angular" height="40" width="50" src="https://devicons.railway.com/i/angularjs.svg" />
   <img align="center" alt="Ts" height="40" width="50" src="https://devicons.railway.com/i/typescript.svg" />
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Docker" height="40" width="50" src="https://devicons.railway.com/i/docker.svg">
   
   <!--img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /-->
